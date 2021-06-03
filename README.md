@@ -1,2 +1,2 @@
 # npcf
-Formal perioidic steady-state analysis and design of non-ideal power converters using interactive thoerem proving.
+Formal perioidic steady-state analysis and design of non-ideal power converters using HOL Light interactive thoerem prover.
